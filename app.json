@@ -1,0 +1,8 @@
+{
+  "name": "mail-sender",
+  "description": "",
+  "repository": "https://github.com/VitaliiLynnyk/mail-sender",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
